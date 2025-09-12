@@ -1,5 +1,6 @@
 {
-  "version ": "1.1",
-  "p": "نسخه جیدید منتشر شده",
-  "link": "https://google.com"
+  "text": "آپدیت برنامه",
+  "title": "برنامه بروز است 1.0 &در کانال تلگرام ما عضو شوید",
+  "p":"عضو شدن",
+  "on-off": "https://t.me/game_app_store_mode"
 }
